@@ -97,7 +97,7 @@ Here are the app's screenshots showcasing various screens:
 ![Home Screen](https://github.com/user-attachments/assets/ad5ea08d-47cf-4d2e-b3c4-fc4a5c80ebd3)
 ![Entry Screen](https://github.com/user-attachments/assets/c134065d-a13c-4d5b-85e0-9b4892bef3e7)
 ![Entry List Screen](https://github.com/user-attachments/assets/7d674d1b-64c0-4e45-8294-e73deab4fad8)
-![Logout Screen](https://github.com/user-attachments/assets/14a71f31-d623-4c9b-8bd4-293e5334469b)
+![Logout Screen](https://github.com/user-attachments/assets/72fcea38-6eb0-43dc-87b8-a1cf29eb5903)
 
 
 ## Future Enhancements
