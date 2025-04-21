@@ -89,6 +89,10 @@ flutter pub get
 ```bash
 flutter run
 ```
+## Screens
+Here are the app's screenshots showcasing various screens:
+![Login Screen](assets/Login Screen.jpg)
+
 
 ## Future Enhancements
 - Cloud sync across devices
@@ -100,7 +104,7 @@ flutter run
 - Sharing capabilities
 
 ## Contributors
-- Bhumi Patel
+- [Bhumi Patel]([https://github.com/yourusername](https://github.com/BhumiPatel2309))
 
 ## Acknowledgments
 - Flutter team for the amazing framework
