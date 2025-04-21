@@ -92,12 +92,12 @@ flutter run
 ## Screens
 Here are the app's screenshots showcasing various screens:
 
-[Register Screen](https://github.com/user-attachments/assets/8d1d8502-6972-43b8-a765-a8f8ca117df5)
-[Login Screen](https://github.com/user-attachments/assets/116c9ae9-5a7c-4d38-9471-4a7658113529)
-[Home Screen](https://github.com/user-attachments/assets/ad5ea08d-47cf-4d2e-b3c4-fc4a5c80ebd3)
-[Entry Screen](https://github.com/user-attachments/assets/c134065d-a13c-4d5b-85e0-9b4892bef3e7)
-[Entry List Screen](https://github.com/user-attachments/assets/7d674d1b-64c0-4e45-8294-e73deab4fad8)
-[Logout Screen](https://github.com/user-attachments/assets/14a71f31-d623-4c9b-8bd4-293e5334469b)
+![Register Screen](https://github.com/user-attachments/assets/8d1d8502-6972-43b8-a765-a8f8ca117df5)
+![Login Screen](https://github.com/user-attachments/assets/116c9ae9-5a7c-4d38-9471-4a7658113529)
+![Home Screen](https://github.com/user-attachments/assets/ad5ea08d-47cf-4d2e-b3c4-fc4a5c80ebd3)
+![Entry Screen](https://github.com/user-attachments/assets/c134065d-a13c-4d5b-85e0-9b4892bef3e7)
+![Entry List Screen](https://github.com/user-attachments/assets/7d674d1b-64c0-4e45-8294-e73deab4fad8)
+![Logout Screen](https://github.com/user-attachments/assets/14a71f31-d623-4c9b-8bd4-293e5334469b)
 
 
 ## Future Enhancements
