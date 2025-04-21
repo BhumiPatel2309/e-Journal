@@ -4,6 +4,8 @@ import 'package:hive_flutter/hive_flutter.dart';
 import 'package:http/http.dart' as http;
 import '../models/journal_entry.dart';
 import '../screens/entry_screen.dart';
+import '../screens/login_screen.dart';
+import '../services/auth_service.dart';
 import '../widgets/journal_card.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -16,6 +18,7 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
   late Box<JournalEntry> journalBox;
+  final _authService = AuthService();
 
   @override
   void initState() {
@@ -36,12 +39,27 @@ class _HomeScreenState extends State<HomeScreen> {
     return '🌟 The best way to predict the future is to create it.';
   }
 
+  void _logout() {
+    _authService.logout();
+    Navigator.of(context).pushAndRemoveUntil(
+      MaterialPageRoute(builder: (context) => const LoginScreen()),
+      (route) => false,
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: Text("Welcome, ${widget.userName}!"),
         centerTitle: true,
+        actions: [
+          IconButton(
+            icon: const Icon(Icons.logout),
+            onPressed: _logout,
+            tooltip: 'Logout',
+          ),
+        ],
       ),
       body: Column(
         children: [
