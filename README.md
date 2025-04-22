@@ -115,4 +115,4 @@ Here are the app's screenshots showcasing various screens:
 ## Acknowledgments
 - Flutter team for the amazing framework
 - Firebase for backend services
-- All contributors and open-source packages used in this project
+- Open-source packages used in this project
