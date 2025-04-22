@@ -110,7 +110,7 @@ Here are the app's screenshots showcasing various screens:
 - Sharing capabilities
 
 ## Contributors
-- Bhumi Patel
+- [BhumiPatel2309](https://github.com/BhumiPatel2309)
 
 ## Acknowledgments
 - Flutter team for the amazing framework
