@@ -92,13 +92,10 @@ flutter run -d chrome --web-port=56347
 ## Screens
 Here are the app's screenshots showcasing various screens:
 
-![Register Screen](https://github.com/user-attachments/assets/8d1d8502-6972-43b8-a765-a8f8ca117df5)
-![Login Screen](https://github.com/user-attachments/assets/116c9ae9-5a7c-4d38-9471-4a7658113529)
-![Home Screen](https://github.com/user-attachments/assets/ad5ea08d-47cf-4d2e-b3c4-fc4a5c80ebd3)
-![Entry Screen](https://github.com/user-attachments/assets/c134065d-a13c-4d5b-85e0-9b4892bef3e7)
-![Entry List Screen](https://github.com/user-attachments/assets/7d674d1b-64c0-4e45-8294-e73deab4fad8)
-![Logout Screen](https://github.com/user-attachments/assets/72fcea38-6eb0-43dc-87b8-a1cf29eb5903)
-
+![Register Screen](https://github.com/user-attachments/assets/e0234639-8639-43ae-9e65-7fe2b2cf0a62)
+![Login Screen](https://github.com/user-attachments/assets/17d9cdd1-013a-40e1-aa91-6563a1c9578f)
+![Entry List Screen](https://github.com/user-attachments/assets/629685f6-67a9-4967-8730-fad5588910ac)
+![Entry Screen](https://github.com/user-attachments/assets/cdf6a8b1-82ae-495f-a1a8-391f784e2864)
 
 ## Future Enhancements
 - Cloud sync across devices
