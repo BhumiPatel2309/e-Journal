@@ -87,7 +87,7 @@ flutter pub get
 
 4. Run the app:
 ```bash
-flutter run
+flutter run -d chrome --web-port=56347
 ```
 ## Screens
 Here are the app's screenshots showcasing various screens:
